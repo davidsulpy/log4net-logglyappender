@@ -1,9 +1,0 @@
-C:\Code\OpenSource\log4net-logglyappender\src\Log4Net.LogglyAppender\bin\Debug\Log4Net.LogglyAppender.dll
-C:\Code\OpenSource\log4net-logglyappender\src\Log4Net.LogglyAppender\bin\Debug\Log4Net.LogglyAppender.pdb
-C:\Code\OpenSource\log4net-logglyappender\src\Log4Net.LogglyAppender\bin\Debug\log4net.dll
-C:\Code\OpenSource\log4net-logglyappender\src\Log4Net.LogglyAppender\bin\Debug\RestSharp.dll
-C:\Code\OpenSource\log4net-logglyappender\src\Log4Net.LogglyAppender\bin\Debug\log4net.xml
-C:\Code\OpenSource\log4net-logglyappender\src\Log4Net.LogglyAppender\bin\Debug\RestSharp.xml
-C:\Code\OpenSource\log4net-logglyappender\src\Log4Net.LogglyAppender\obj\Debug\Log4Net.LogglyAppender.csprojResolveAssemblyReference.cache
-C:\Code\OpenSource\log4net-logglyappender\src\Log4Net.LogglyAppender\obj\Debug\Log4Net.LogglyAppender.dll
-C:\Code\OpenSource\log4net-logglyappender\src\Log4Net.LogglyAppender\obj\Debug\Log4Net.LogglyAppender.pdb

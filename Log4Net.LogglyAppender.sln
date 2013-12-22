@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log4Net.LogglyAppender", "s
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log4Net.LogglyAppender.45", "src\Log4Net.LogglyAppender.45\Log4Net.LogglyAppender.45.csproj", "{9909B05F-E509-477D-876C-FBE0E5C5C76A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget_package", ".nuget_package", "{1A412CE7-01A5-49B4-83D8-8E7E8003212A}"
+	ProjectSection(SolutionItems) = preProject
+		nugetpackage\Package.nuspec = nugetpackage\Package.nuspec
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

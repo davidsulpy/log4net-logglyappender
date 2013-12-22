@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Log4Net.LogglyAppender</id>
+    <version>1.0.3</version>
+    <authors>David Sulpy</authors>
+    <owners>David Sulpy</owners>
+    <licenseUrl>https://github.com/davidsulpy/log4net-logglyappender</licenseUrl>
+    <projectUrl>https://github.com/davidsulpy/log4net-logglyappender</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Log4Net Appender for Loggly</description>
+    <releaseNotes>Added WebRequest version of appender</releaseNotes>
+    <copyright>Copyright 2013</copyright>
+    <tags>loggly log4net</tags>
+    <dependencies>
+      <dependency id="log4net" version="2.0.3" />
+	    <dependency id="RestSharp" version="104.4.0" />
+    </dependencies>
+  </metadata>
+</package>

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Log4Net.LogglyAppender")]
-[assembly: AssemblyDescription("log4net Appender to use for shipping logs to loggly")]
+[assembly: AssemblyTitle("Log4Net.LogglyAppender.40")]
+[assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("David Sulpy")]
-[assembly: AssemblyProduct("Log4Net.LogglyAppender")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("Log4Net.LogglyAppender.40")]
 [assembly: AssemblyCopyright("Copyright ©  2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("a85b1df1-970b-405c-9044-c56cba061a42")]
+[assembly: Guid("6238fa23-ffae-4096-8f45-c3e9304c6df0")]
 
 // Version information for an assembly consists of the following four values:
 //
